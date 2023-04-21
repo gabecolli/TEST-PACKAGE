@@ -8,7 +8,7 @@ setuptools.setup(
     version="0.0.1",
     author="Gabriel",
     author_email="gabriel@example.com",
-    packages=["test_package"],
+    packages=["test-package"],
     description="A sample test package",
     long_description=description,
     long_description_content_type="text/markdown",
